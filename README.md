@@ -1,6 +1,7 @@
 # Signalex
 
 Control one of these bad boys over i2c!
+The base module for the [Chronomix](https://github.com/krebera/Chronomix) library
 
 ![img](https://www.scoretronics.com/components/402L.jpg)
 
