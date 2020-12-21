@@ -1,0 +1,5 @@
+Signalex KEYWORD1
+setSegment KEYWORD2
+setup KEYWORD2
+updateTimers KEYWORD2
+display KEYWORD2
